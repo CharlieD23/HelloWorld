@@ -11,7 +11,8 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         
-        System.out.print("Hello World, my GitHub account name is CharlieD23");
+        System.out.println("Hello World, my GitHub account name is CharlieD23");
+        System.out.print("This is another print statement");
     }
     
 }
